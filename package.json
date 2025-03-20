@@ -1,9 +1,9 @@
 {
-  "name": "uzor-next-mui-template",
+  "name": "create-uzor-next-mui-template",
   "version": "1.0.1",
   "description": "Custom Next.js template with MUI and Redux Toolkit",
   "bin": {
-    "uzor-next-mui-template": "./bin/index.js"
+    "create-uzor-next-mui-template": "./bin/index.js"
   },
   "type": "module",
   "files": [
@@ -12,7 +12,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/uzornakovre/uzor-next-mui-template.git"
+    "url": "https://github.com/uzornakovre/create-uzor-next-mui-template.git"
   },
   "keywords": [
     "nextjs",
@@ -24,8 +24,8 @@
   "author": "uzornakovre",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/uzornakovre/uzor-next-mui-template/issues"
+    "url": "https://github.com/uzornakovre/create-uzor-next-mui-template/issues"
   },
-  "homepage": "https://github.com/uzornakovre/uzor-next-mui-template#readme",
+  "homepage": "https://github.com/uzornakovre/create-uzor-next-mui-template#readme",
   "dependencies": {}
 }
