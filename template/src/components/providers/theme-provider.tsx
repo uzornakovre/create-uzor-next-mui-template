@@ -22,7 +22,12 @@ const ThemeProvider = ({ children }: { children: ReactNode }) => {
 
   if (!isMounted) return null;
 
-  const theme = createTheme({ palette: { mode } });
+  const theme = createTheme({
+    palette: { mode },
+    typography: {
+      fontFamily: "var(--font-roboto)",
+    },
+  });
 
   return (
     <MuiThemeProvider theme={theme}>
