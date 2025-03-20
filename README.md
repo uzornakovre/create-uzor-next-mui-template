@@ -1,0 +1,1 @@
+# Template React 19 + Next 15 + MUI + Redux Toolkit
