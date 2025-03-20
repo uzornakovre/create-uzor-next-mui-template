@@ -1,9 +1,9 @@
 {
   "name": "uzor-next-mui-template",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Custom Next.js template with MUI and Redux Toolkit",
   "bin": {
-    "create-uzor-next-mui-template": "./bin/index.js"
+    "uzor-next-mui-template": "./bin/index.js"
   },
   "type": "module",
   "files": [
